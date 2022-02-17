@@ -99,7 +99,7 @@ int main()
                 break;
         }
 
-        //feed data
+        // Dump test data into verilog file
         design_under_test->D0 = inp.D0;
         design_under_test->D1 = inp.D1;
         design_under_test->D2 = inp.D2;
